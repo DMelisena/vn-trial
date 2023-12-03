@@ -1,0 +1,55 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Sophia/sophia_surprised",
+"description": "A friendly female friend",
+"display_name": "Sophia",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Sophia/sophia_angry": {
+"image": "res://Characters/Sophia/sophia_angry.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sophia/sophia_happy": {
+"image": "res://Characters/Sophia/sophia_happy.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sophia/sophia_neutral": {
+"image": "res://Characters/Sophia/sophia_neutral.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sophia/sophia_sad": {
+"image": "res://Characters/Sophia/sophia_sad.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Sophia/sophia_surprised": {
+"image": "res://Characters/Sophia/sophia_surprised.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}

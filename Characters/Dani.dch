@@ -1,0 +1,58 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(0.902344, 0.643878, 0.031723, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "Dani/dani_happy",
+"description": "A Friendly Guy",
+"display_name": "Dani",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"Dani/dani_angry": {
+"image": "res://Characters/Dani/dani_angry.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Dani/dani_happy": {
+"export_overrides": {
+"image": "\"\""
+},
+"image": "res://Characters/Dani/dani_happy.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Dani/dani_neutral": {
+"image": "res://Characters/Dani/dani_neutral.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Dani/dani_sad": {
+"image": "res://Characters/Dani/dani_sad.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Dani/dani_surprised": {
+"image": "res://Characters/Dani/dani_surprised.png",
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
